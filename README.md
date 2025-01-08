@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PPSchL
 - 👀 I’m interested in coding in general and choosing the right tool for each task. I have used BASIC, Pascal, Java, Scilab, R, HTML, CSS and Python in the past (as you see, I'm past my prime:-))
-- 🌱 I’m currently learning Julia and hope to learn full functional programming using either Clojure and/or OCaml
+- 🌱 I’m currently using Julia and have started learning full functional programming using OCaml
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
